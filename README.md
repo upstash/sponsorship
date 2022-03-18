@@ -1,6 +1,6 @@
 # Upstash is Sponsoring Projects
 
-Upstash is sponsoring open source projects to support the Redis and Kafka
+Upstash is sponsoring open source projects to support the Redis, Kafka and Serverless
 ecosystem as well as to increase the user base of the Upstash. The projects
 should be:
 
