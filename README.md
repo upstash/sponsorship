@@ -24,12 +24,12 @@ If you think your project is a candidate, contact us at support@upstash.com.
 <h3>Upstash: Serverless Database for Redis</h3>
 
   <ul>
-    <li>Serverless Database with Redis/REST API and durable storage</li>
-    <li>It is the perfect database for your applications</li>
-    <li>Per request pricing and low latency data</li>
+    <li>Serverless Redis with global replication and durable storage</li>
+    <li>Price scales to zero with per request pricing</li>
+    <li>Built-in REST API designed for serverless and edge functions</li>
   </ul>
-
-[Start for free in 30 seconds!](https://upstash.com/?utm_source=ioredis)
+  
+[Start for free in 30 seconds!](https://upstash.com/?utm_source=YOUR_PROJECT)
 </td>
 </tr>
 
@@ -45,7 +45,7 @@ If you think your project is a candidate, contact us at support@upstash.com.
     <li>Built-in REST API designed for serverless and edge functions</li>
   </ul>
 
-[Start for free in 30 seconds!](https://upstash.com)
+[Start for free in 30 seconds!](https://upstash.com/?utm_source=YOUR_PROJECT)
 </td>
 </tr>
 </table>
