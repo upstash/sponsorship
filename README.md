@@ -37,7 +37,7 @@ If you think your project is a candidate, contact us at support@upstash.com.
 <td>
   <img src="https://raw.githubusercontent.com/upstash/sponsorship/master/kafka.png" alt="Upstash" width="260" align="right">
 
-<h3>Upstash: Serverless Database for Kafka</h3>
+<h3>Upstash: Serverless Kafka</h3>
 
   <ul>
     <li>True Serverless Kafka with per-request-pricing</li>
