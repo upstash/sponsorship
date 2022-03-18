@@ -8,23 +8,26 @@ should be:
 - At least 100 stars.
 - Have a similar user audience with Upstash Redis or Kafka.
 
+We ask the sponsored project maintainers to put one of the below ads to their readme page.
+
 If you think your project is a candidate, contact us at support@upstash.com.
 
-We ask the sponsored project maintainers to put one of the below ads to their
-readme page.
+<br/>
+<br/>
 
-## Redis Ads
-
-<table cellpadding="20">
+<table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/upstash/sponsorship/master/redis.png" alt="Upstash" width="300" align="right">
+  <img width="1000" height="0">
+  <img src="https://raw.githubusercontent.com/upstash/sponsorship/master/redis.png" alt="Upstash" width="260" align="right">
 
-### Upstash: Serverless Database for Redis
+<h3>Upstash: Serverless Database for Redis</h3>
 
-Upstash is a Serverless Database with Redis/REST API and durable storage. It is
-the perfect database for your applications thanks to its per request pricing and
-low latency data.
+  <ul>
+    <li>Serverless Database with Redis/REST API and durable storage</li>
+    <li>It is the perfect database for your applications</li>
+    <li>Per request pricing and low latency data</li>
+  </ul>
 
 [Start for free in 30 seconds!](https://upstash.com/?utm_source=ioredis)
 </td>
@@ -32,20 +35,20 @@ low latency data.
 
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/upstash/sponsorship/master/kafka.png" alt="Upstash" width="300" align="right">
+  <img src="https://raw.githubusercontent.com/upstash/sponsorship/master/kafka.png" alt="Upstash" width="260" align="right">
 
-### Upstash: Serverless Database for Kafka
+<h3>Upstash: Serverless Database for Kafka</h3>
 
-- True Serverless Kafka with per-request-pricing
-- Managed Apache Kafka, works with all Kafka clients</li>
-- Built-in REST API designed for serverless and edge functions</li>
-- [Start for free in 30 seconds!](https://upstash.com)
+  <ul>
+    <li>True Serverless Kafka with per-request-pricing</li>
+    <li>Managed Apache Kafka, works with all Kafka clients</li>
+    <li>Built-in REST API designed for serverless and edge functions</li>
+  </ul>
 
+[Start for free in 30 seconds!](https://upstash.com)
 </td>
 </tr>
 </table>
-
-## Kafka Ads
 
 
 
