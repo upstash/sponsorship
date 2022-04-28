@@ -53,6 +53,6 @@ If you think your project is a candidate, contact us at support@upstash.com.
 </tr>
 </table>
 
-
+* Please set utm_source=YOUR_PROJECT_NAME at the links to Upstash.
 
 
