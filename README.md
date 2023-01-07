@@ -1,14 +1,14 @@
 # Upstash is Sponsoring Projects
 
 Upstash is sponsoring open source projects to support the Redis, Kafka and Serverless
-ecosystem as well as to increase the user base of the Upstash. The projects
+ecosystem as well as to increase the user base of Upstash. The projects
 should be:
 
 - Actively maintained.
 - At least 100 stars.
 - Have a similar user audience with Upstash Redis or Kafka.
 
-We ask the sponsored project maintainers to put one of the below ads to their readme page.
+We ask the sponsored project maintainers to put one of the below ads on their readme page.
 
 If you think your project is a candidate, contact us at support@upstash.com.
 
